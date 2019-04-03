@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="IOExceptions/src"/>
+	<classpathentry kind="lib" path="IOExceptions/src/testat1/uebung1a.jar"/>
+	<classpathentry kind="output" path="IOExceptions/bin"/>
+</classpath>
